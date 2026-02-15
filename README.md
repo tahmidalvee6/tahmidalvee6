@@ -18,34 +18,106 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
-```typescript
-const tahmidAlvee = {
-    name: "Tahmid Alvee",
-    location: "Chittagong, Bangladesh 🇧🇩",
-    education: {
-        degree: "B.Sc. in Computer Science & Engineering",
-        university: "International Islamic University Chittagong (IIUC)",
-        year: "2023 - 2027"
-    },
-    role: "CSE Student & Aspiring Data Scientist",
-    currentFocus: ["Data Science", "Machine Learning", "Competitive Programming"],
-    languages: ["C", "C++", "Python", "Java", "JavaScript"],
-    hobbies: ["Coding", "Problem Solving", "Gaming", "Tech Events"],
-    
-    getGoals: function() {
-        return [
-            "🎯 Master Data Science & ML",
-            "💡 Solve 1000+ CP Problems",
-            "🚀 Build Impactful Projects",
-            "📚 Never Stop Learning"
-        ];
-    },
-    
-    dailyRoutine: function() {
-        console.log("Code → Learn → Build → Repeat 🔁");
-    }
-};
-```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Tahmid+Alvee+%F0%9F%91%8B;A+passionate+CSE+student+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400"/>
+</td>
+<td align="left" width="50%">
+
+### 🎓 Education
+**B.Sc. in Computer Science & Engineering**  
+📍 International Islamic University Chittagong (IIUC)  
+📅 2023 - 2027
+
+### 🌍 Location
+📌 Chittagong, Bangladesh 🇧🇩
+
+### 💼 Current Role
+👨‍💻 CSE Student & Aspiring Data Scientist
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 What I'm Focused On
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning+%F0%9F%A4%96;Competitive+Programming+%F0%9F%8F%86;Full+Stack+Development+%F0%9F%92%BB;Building+Impactful+Projects+%F0%9F%9A%80" alt="Focus Areas" />
+</p>
+
+<br>
+
+### 💻 Languages I Speak
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<br>
+
+### 🎯 My Goals
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+<br><strong>Master Data Science</strong>
+<br><em>& Machine Learning</em>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+<br><strong>Solve 1000+ Problems</strong>
+<br><em>Competitive Programming</em>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
+<br><strong>Build Impactful</strong>
+<br><em>Projects</em>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80">
+<br><strong>Never Stop</strong>
+<br><em>Learning</em>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎮 Hobbies & Interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻_Coding-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧩_Problem_Solving-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎮_Gaming-EC4899?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀_Tech_Events-00D9FF?style=for-the-badge"/>
+</p>
+
+<br>
+
+### ⚡ Daily Routine
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=600&lines=Code+%E2%9E%A1%EF%B8%8F+Learn+%E2%9E%A1%EF%B8%8F+Build+%E2%9E%A1%EF%B8%8F+Repeat+%F0%9F%94%81" alt="Daily Routine" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
