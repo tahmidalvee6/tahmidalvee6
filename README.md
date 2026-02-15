@@ -23,31 +23,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Tahmid+Alvee+%F0%9F%91%8B;A+passionate+CSE+student+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
-</td>
-<td align="left" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="800"/>
 
-### 🎓 Education
-**B.Sc. in Computer Science & Engineering**  
-📍 International Islamic University Chittagong (IIUC)  
-📅 2023 - 2027
+<br><br>
 
-### 🌍 Location
-📌 Chittagong, Bangladesh 🇧🇩
-
-### 💼 Current Role
-👨‍💻 CSE Student & Aspiring Data Scientist
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
 
 <br>
 
@@ -127,25 +109,50 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br><br>
+
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark&perline=5" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<br>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql&theme=dark&perline=4" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+
+<br>
 
 ### 📱 Mobile & Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,unity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,unity&theme=dark&perline=2" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br>
 
 ### 🛠️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 </div>
 
@@ -217,21 +224,66 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/tahmidalvee6/Travel-and-Tourism-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Travel-and-Tourism-Management-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Travel-and-Tourism-Management-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
 </a>
-
+<br><br>
+<img src="https://img.shields.io/badge/Travel%20%26%20Tourism-System-00d9ff?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/tahmidalvee6/Bank-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Bank-Management-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Bank-Management-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
 </a>
-
+<br><br>
+<img src="https://img.shields.io/badge/Bank%20Management-System-7c3aed?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-Concepts-red?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 <a href="https://github.com/tahmidalvee6/Solar-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Solar-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Solar-System&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
 </a>
-
+<br><br>
+<img src="https://img.shields.io/badge/Solar%20System-Simulation-ec4899?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+</td>
+<td width="50%" align="center">
 <a href="https://github.com/tahmidalvee6/Guessing-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Guessing-Game&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidalvee6&repo=Guessing-Game&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=c9d1d9&border_color=00d9ff" />
 </a>
+<br><br>
+<img src="https://img.shields.io/badge/Guessing-Game-00d9ff?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Game-Logic-green?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+### 🎮 More Projects Coming Soon!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Innovative+Solutions...+%F0%9F%92%A1;One+Commit+at+a+Time!+%F0%9F%9A%80;Stay+Tuned+for+More!+%E2%AD%90" alt="Projects Coming Soon" />
 
 </div>
 
