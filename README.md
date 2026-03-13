@@ -59,41 +59,38 @@ I build real-world applications across multiple domains — from system-level pr
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 <h4>💬 Programming Languages</h4>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+</div>
 
-<br><br>
+<br>
 
 <h4>🌐 Web Development</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,mysql" />
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,mysql" />
+</div>
 
-<br><br>
+<br>
 
 <h4>📊 Data Science & AI</h4>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+<div>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</div>
 
-<br><br>
+<br>
 
 <h4>📱 Mobile & Game Development</h4>
-<img src="https://skillicons.dev/icons?i=flutter,unity,androidstudio" />
+<div>
+  <img src="https://skillicons.dev/icons?i=flutter,unity,androidstudio" />
+</div>
 
-<br><br>
+<br>
 
 <h4>🔧 Tools & Platforms</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
-
-</td>
-<td width="50%" valign="center" align="center">
-
-<img src="https://media2.giphy.com/media/l3E6BG56dhjuawAX6/giphy.gif" width="100%" height="700px" alt="Tech GIF"/>
-
-</td>
-</tr>
-</table>
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+</div>
 ---
 
 ## 📊 GitHub Stats
