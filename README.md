@@ -111,7 +111,7 @@ I build real-world applications across multiple domains — from system-level pr
 
 ## 🚀 Projects
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="46%" valign="top">
 
@@ -137,7 +137,7 @@ I build real-world applications across multiple domains — from system-level pr
 
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
