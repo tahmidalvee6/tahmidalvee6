@@ -41,9 +41,9 @@
 
 > 🎯 *A passionate Computer Science & Engineering student dedicated to building software that is clean, efficient, and impactful.*
 
-I am a **Computer Science & Engineering** student at **International Islamic University Chittagong (IIUC)**, Bangladesh 🇧🇩 with a solid foundation in software development, algorithmic problem solving, and data-driven thinking. My primary interests span **Data Science**, **Machine Learning**, and **Full Stack Web Development** — fields where I invest consistent effort through research, coursework, and hands-on projects.
+I am a **Computer Science & Engineering** student at **International Islamic University Chittagong (IIUC)**, Bangladesh with a solid foundation in software development, algorithmic problem solving, and data-driven thinking. My primary interests span **Data Science**, **Machine Learning**, and **Full Stack Web Development**.
 
-I build real-world applications across multiple domains — from system-level programs in **C++** and **Java** to web interfaces and Python-based tools. I regularly sharpen my algorithmic thinking on **Codeforces** and **LeetCode**, and approach every project with a **problem-first mindset** and a commitment to continuous improvement.
+I build real-world applications across multiple domains — from system-level programs in **C++** and **Java** to web interfaces and Python-based tools. I regularly sharpen my algorithmic thinking on **Codeforces** and **LeetCode**, and approach every project with a **problem-first mindset**.
 
 <br>
 
@@ -51,7 +51,7 @@ I build real-world applications across multiple domains — from system-level pr
 
 | 🎓 **Degree** | 📍 **Location** | 🔭 **Interests** | 💡 **Currently** | ⚡ **Motto** |
 |:---:|:---:|:---:|:---:|:---:|
-| B.Sc. in CSE | Chittagong, BD 🇧🇩 | Data Science · ML · Web Dev | Advanced Algorithms & DS | Code → Learn → Build → Repeat |
+| B.Sc. in CSE | Chittagong, BD | Data Science · ML · Web Dev | Advanced Algorithms & DS | Code → Learn → Build → Repeat |
 
 </div>
 
@@ -91,17 +91,23 @@ I build real-world applications across multiple domains — from system-level pr
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
 </div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=tahmidalvee6&theme=blue&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&repos=true&commits=true&prs=true&issues=true&contributions=true" alt="GitHub Insights" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tahmidalvee6&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidalvee6&theme=tokyonight" width="48%"/>
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidalvee6&layout=compact&theme=tokyonight" width="48%"/>
+</div>
 
+<br>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/JBJye836mUoAAAAC/technology.gif" width="100%" alt="Technology GIF"/>
@@ -111,7 +117,7 @@ I build real-world applications across multiple domains — from system-level pr
 
 ## 🚀 Projects
 
-<!-- <table width="100%">
+<table width="100%">
 <tr>
 <td width="46%" valign="top">
 
@@ -137,7 +143,7 @@ I build real-world applications across multiple domains — from system-level pr
 
 </td>
 </tr>
-</table> -->
+</table>
 
 ---
 
