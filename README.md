@@ -95,7 +95,6 @@ I build real-world applications across multiple domains — from system-level pr
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmidalvee6&theme=tokyonight" width="100%"/>
 </div>
