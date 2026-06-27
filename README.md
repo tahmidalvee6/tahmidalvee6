@@ -95,15 +95,9 @@ I build real-world applications across multiple domains — from system-level pr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmidalvee6&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidalvee6&theme=tokyonight" width="48%"/>
-</div>
-
-<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidalvee6&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmidalvee6&theme=tokyonight" width="100%"/>
 </div>
 
 <br>
