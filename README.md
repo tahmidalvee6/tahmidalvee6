@@ -96,14 +96,7 @@ I build real-world applications across multiple domains — from system-level pr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmidalvee6&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidalvee6&theme=tokyonight" width="48%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidalvee6&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://yourinsights.vercel.app/api/insight?username=tahmidalvee6&theme=blue&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true&repos=true&commits=true&prs=true&issues=true&contributions=true" alt="GitHub Insights" width="100%"/>
 </div>
 
 <br>
@@ -111,7 +104,6 @@ I build real-world applications across multiple domains — from system-level pr
 <div align="center">
   <img src="https://media1.tenor.com/m/JBJye836mUoAAAAC/technology.gif" width="100%" alt="Technology GIF"/>
 </div>
-
 ---
 
 ## 🚀 Projects
